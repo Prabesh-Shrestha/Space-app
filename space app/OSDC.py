@@ -62,7 +62,7 @@ def GEOS6(IDs):
     querystring = {"units":"imperial","lat":"47.6484346","lng":"122.374199"}
     headers = {
         'x-rapidapi-host': "uphere-space1.p.rapidapi.com",
-        'x-rapidapi-key': "cfb1594c20mshe1abaf949a39485p18f305jsn0ae3abc85cc9"
+        'x-rapidapi-key': "your api key"
         }
     response = requests.request("GET", url, headers=headers, params=querystring)
     dataiss = response.json()
@@ -143,7 +143,7 @@ def GOES12(IDs):
     querystring = {"units":"imperial","lat":"47.6484346","lng":"122.374199"}
     headers = {
         'x-rapidapi-host': "uphere-space1.p.rapidapi.com",
-        'x-rapidapi-key': "cfb1594c20mshe1abaf949a39485p18f305jsn0ae3abc85cc9"
+        'x-rapidapi-key': "your api key"
         }
     response = requests.request("GET", url, headers=headers, params=querystring)
     dataiss = response.json()
@@ -223,7 +223,7 @@ def GOES2(IDs):
     querystring = {"units":"imperial","lat":"47.6484346","lng":"122.374199"}
     headers = {
         'x-rapidapi-host': "uphere-space1.p.rapidapi.com",
-        'x-rapidapi-key': "cfb1594c20mshe1abaf949a39485p18f305jsn0ae3abc85cc9"
+        'x-rapidapi-key': "your api key"
         }
     response = requests.request("GET", url, headers=headers, params=querystring)
     dataiss = response.json()
@@ -302,7 +302,7 @@ def GOES5(IDs):
     querystring = {"units":"imperial","lat":"47.6484346","lng":"122.374199"}
     headers = {
         'x-rapidapi-host': "uphere-space1.p.rapidapi.com",
-        'x-rapidapi-key': "cfb1594c20mshe1abaf949a39485p18f305jsn0ae3abc85cc9"
+        'x-rapidapi-key': "your api key"
         }
     response = requests.request("GET", url, headers=headers, params=querystring)
     dataiss = response.json()
@@ -381,7 +381,7 @@ def GOES17(IDs):
     querystring = {"units":"imperial","lat":"47.6484346","lng":"122.374199"}
     headers = {
         'x-rapidapi-host': "uphere-space1.p.rapidapi.com",
-        'x-rapidapi-key': "cfb1594c20mshe1abaf949a39485p18f305jsn0ae3abc85cc9"
+        'x-rapidapi-key': "your api key"
         }
     response = requests.request("GET", url, headers=headers, params=querystring)
     dataiss = response.json()
@@ -460,7 +460,7 @@ def GOES14(IDs):
     querystring = {"units":"imperial","lat":"47.6484346","lng":"122.374199"}
     headers = {
         'x-rapidapi-host': "uphere-space1.p.rapidapi.com",
-        'x-rapidapi-key': "cfb1594c20mshe1abaf949a39485p18f305jsn0ae3abc85cc9"
+        'x-rapidapi-key': "your api key"
         }
     response = requests.request("GET", url, headers=headers, params=querystring)
     dataiss = response.json()
@@ -538,7 +538,7 @@ def GOES16(IDs):
     querystring = {"units":"imperial","lat":"47.6484346","lng":"122.374199"}
     headers = {
         'x-rapidapi-host': "uphere-space1.p.rapidapi.com",
-        'x-rapidapi-key': "cfb1594c20mshe1abaf949a39485p18f305jsn0ae3abc85cc9"
+        'x-rapidapi-key': "your api key"
         }
     response = requests.request("GET", url, headers=headers, params=querystring)
     dataiss = response.json()
@@ -617,7 +617,7 @@ def GOES8(IDs):
     querystring = {"units":"imperial","lat":"47.6484346","lng":"122.374199"}
     headers = {
         'x-rapidapi-host': "uphere-space1.p.rapidapi.com",
-        'x-rapidapi-key': "cfb1594c20mshe1abaf949a39485p18f305jsn0ae3abc85cc9"
+        'x-rapidapi-key': "your api key"
         }
     response = requests.request("GET", url, headers=headers, params=querystring)
     dataiss = response.json()
@@ -696,7 +696,7 @@ def GOES3(IDs):
     querystring = {"units":"imperial","lat":"47.6484346","lng":"122.374199"}
     headers = {
         'x-rapidapi-host': "uphere-space1.p.rapidapi.com",
-        'x-rapidapi-key': "cfb1594c20mshe1abaf949a39485p18f305jsn0ae3abc85cc9"
+        'x-rapidapi-key': "your api key"
         }
     response = requests.request("GET", url, headers=headers, params=querystring)
     dataiss = response.json()
@@ -774,7 +774,7 @@ def GOES4(IDs):
     querystring = {"units":"imperial","lat":"47.6484346","lng":"122.374199"}
     headers = {
         'x-rapidapi-host': "uphere-space1.p.rapidapi.com",
-        'x-rapidapi-key': "cfb1594c20mshe1abaf949a39485p18f305jsn0ae3abc85cc9"
+        'x-rapidapi-key': "your api key"
         }
     response = requests.request("GET", url, headers=headers, params=querystring)
     dataiss = response.json()
@@ -852,7 +852,7 @@ def GOES9(IDs):
     querystring = {"units":"imperial","lat":"47.6484346","lng":"122.374199"}
     headers = {
         'x-rapidapi-host': "uphere-space1.p.rapidapi.com",
-        'x-rapidapi-key': "cfb1594c20mshe1abaf949a39485p18f305jsn0ae3abc85cc9"
+        'x-rapidapi-key': "your api key"
         }
     response = requests.request("GET", url, headers=headers, params=querystring)
     dataiss = response.json()
@@ -930,7 +930,7 @@ def GOES11(IDs):
     querystring = {"units":"imperial","lat":"47.6484346","lng":"122.374199"}
     headers = {
         'x-rapidapi-host': "uphere-space1.p.rapidapi.com",
-        'x-rapidapi-key': "cfb1594c20mshe1abaf949a39485p18f305jsn0ae3abc85cc9"
+        'x-rapidapi-key': "your api key"
         }
     response = requests.request("GET", url, headers=headers, params=querystring)
     dataiss = response.json()
@@ -1008,7 +1008,7 @@ def GOES15(IDs):
     querystring = {"units":"imperial","lat":"47.6484346","lng":"122.374199"}
     headers = {
         'x-rapidapi-host': "uphere-space1.p.rapidapi.com",
-        'x-rapidapi-key': "cfb1594c20mshe1abaf949a39485p18f305jsn0ae3abc85cc9"
+        'x-rapidapi-key': "your api key"
         }
     response = requests.request("GET", url, headers=headers, params=querystring)
     dataiss = response.json()
@@ -1086,7 +1086,7 @@ def GOES13(IDs):
     querystring = {"units":"imperial","lat":"47.6484346","lng":"122.374199"}
     headers = {
         'x-rapidapi-host': "uphere-space1.p.rapidapi.com",
-        'x-rapidapi-key': "cfb1594c20mshe1abaf949a39485p18f305jsn0ae3abc85cc9"
+        'x-rapidapi-key': "your api key"
         }
     response = requests.request("GET", url, headers=headers, params=querystring)
     dataiss = response.json()
@@ -1165,7 +1165,7 @@ def GOES7(IDs):
     querystring = {"units":"imperial","lat":"47.6484346","lng":"122.374199"}
     headers = {
         'x-rapidapi-host': "uphere-space1.p.rapidapi.com",
-        'x-rapidapi-key': "cfb1594c20mshe1abaf949a39485p18f305jsn0ae3abc85cc9"
+        'x-rapidapi-key': "your api key"
         }
     response = requests.request("GET", url, headers=headers, params=querystring)
     dataiss = response.json()
@@ -1244,7 +1244,7 @@ def GOES10(IDs):
     querystring = {"units":"imperial","lat":"47.6484346","lng":"122.374199"}
     headers = {
         'x-rapidapi-host': "uphere-space1.p.rapidapi.com",
-        'x-rapidapi-key': "cfb1594c20mshe1abaf949a39485p18f305jsn0ae3abc85cc9"
+        'x-rapidapi-key': "your api key"
         }
     response = requests.request("GET", url, headers=headers, params=querystring)
     dataiss = response.json()
